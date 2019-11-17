@@ -1,0 +1,70 @@
+header{
+    border: 0;
+}
+/*Починить оступу у топ-лине*/
+.top-line{
+    height: 100px;
+    width: 100%;
+    background-color: LightBlue;
+}
+
+
+.innerDiv{
+        width: 400px;
+        height: 100px;
+        background-color: #D35400;
+}
+
+.innerDiv2{
+        width: 200px;
+        height: 70px;
+        background-color: #58D68D;
+}
+
+.innerDiv3{
+        width: 100px;
+        height: 30px;
+        background-color: #F7DC6F;
+}
+
+
+
+
+
+.color1{
+    background-color: LemonChiffon;
+}
+
+.color2{
+    background-color: Moccasin;
+    background: linear-gradient(45deg, Moccasin , Orchid);
+}
+
+.color3{
+    background-color: Orchid;
+    
+}
+
+.color4{
+    background-color: Plum;
+}
+
+.color5{
+    background-color: DarkSlateBlue;
+}
+
+.color6{
+    background-color: LightGreen;
+}
+
+.color7{
+    background-color: Silver;
+}
+
+.color8{
+    background-color: DarkSeaGreen;
+}
+
+.color9{
+    background-color: PowderBlue;
+}
