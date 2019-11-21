@@ -8,3 +8,5 @@ window.addEventListener("lead",function(){
     game.start();
 });
 game.start();
+
+//lol
